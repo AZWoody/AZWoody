@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AZWoody
 - 👀 I’m interested in 3D Printing and building robots
-- 🌱 I’m currently learning VS, Python and Ardruno code writing.
+- 🌱 I’m currently learning C++, Python and Ardruno code writing.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 How to reach me courttrooper1@gmail.com
 
