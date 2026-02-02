@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @AZWoody
-- 👀 I’m interested in 3D Printing and building robots
-- 🌱 I’m currently learning C++, Python and Ardruno code writing.
-- 💞️ I’m looking to collaborate on any of the above.
-- 📫 How to reach me courttrooper1@gmail.com
+Hi, I’m AZWoody.
+I’m interested in 3D Printing and building robotics
+currently learning C++, Python and Ardruno code writing
+willing to collaborate on any of the above.
+
+ 📫 How to reach me courttrooper1@gmail.com
+
+Have a fantastic day!
 
 <!---
 AZWoody/AZWoody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
